@@ -4,5 +4,5 @@ hai hello
 =======
 >>>>>>> parent of 7b79c7a... 2nd commit
 =======
-hai
+hai hel
 >>>>>>> parent of ab5fd24... 3nd commit
