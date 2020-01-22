@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-hai
-Bye
-=======
-
-kales
->>>>>>> parent of c3e045f... second commit
