@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hai
 Bye
+=======
+>>>>>>> parent of c3e045f... second commit
