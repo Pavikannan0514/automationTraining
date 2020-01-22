@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 hai hello
+=======
+>>>>>>> parent of 7b79c7a... 2nd commit
